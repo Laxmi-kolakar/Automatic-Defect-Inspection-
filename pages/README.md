@@ -1,0 +1,1 @@
+This project currently uses a page selector in app.py for a reliable single-entry demo. Individual scripts in this folder are intentionally not separate Streamlit entry points.
